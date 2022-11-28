@@ -1,0 +1,9 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 2.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/User Login test/
+
+.Cambiamos un requisito erroneo 'Userid' por 'email' que cumple los requisitos de la pagina
+

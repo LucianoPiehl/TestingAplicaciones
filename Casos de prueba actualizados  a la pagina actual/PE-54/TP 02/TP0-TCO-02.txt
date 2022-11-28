@@ -1,0 +1,8 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 2.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/User Login test/
+
+.Modificamos el requisito 'InvalidUser' por 'InvalidEmail' para que el caso de prueba quede más completo

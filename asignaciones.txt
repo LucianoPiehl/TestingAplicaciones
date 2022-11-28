@@ -1,0 +1,36 @@
+---------------------------------------------------------------------
+PE 16  = Ivo
+Como usuario quiero poder Crear mi cuenta para comprar productos
+
+Story Points: 8
+
+Priority: High
+---------------------------------------------------------------------
+PE 54 = Ciro
+Como usuario quiero poder iniciar sesión
+
+Story Points: 8
+
+Priority: Medium
+----------------------------------------------------------------------
+PE 53 =Lucas
+Como Usuario quiero poder modificar mi cuenta
+
+Story Points: 3
+
+Priority: Medium
+---------------------------------------------------------------------
+PE 44 = Lucho
+Como usuario quiero poder agregar productos al Carrito de Compra
+
+Story Points: 8
+
+Priority: High
+--------------------------------------------------------------------
+PE 10 = Jorge 
+Como usuario quiero poder acceder a la Página Principal (Home) del eCommerce
+
+Story Points: 8
+
+Priority: High
+---------------------------------------------------------------------

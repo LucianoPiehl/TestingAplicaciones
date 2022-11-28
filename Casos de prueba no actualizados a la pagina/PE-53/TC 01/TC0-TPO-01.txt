@@ -1,0 +1,21 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 1.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/Modificar datos de usuario/
+
+.Este caso de prueba queda completamente invalidado porque el mocks esperado para la pagina es diferente
+y los formularios de la pagina tambien. 
+
+/- Como criterio de aceptacion de la historia de usuario se pide modificar 'Fecha de nacimiento' la cual esta 
+opcion no se encuentra en el sitio web
+
+/- Otro de los criterio erroneos encontrados es que los formularios de  'First name' y 'Last name'
+no podian ser modificados y en el sitio web esto esta permitido
+
+/- La opcion de modificar contraseña se encuentra en otra ubicacion dificultando el desarrollo del caso de 
+prueba
+
+/- Como criterio de aceptacion de la historia de usuario se pide poder agregar 'email secundario' la cual esta 
+opcion no se encuentra en el sitio web 

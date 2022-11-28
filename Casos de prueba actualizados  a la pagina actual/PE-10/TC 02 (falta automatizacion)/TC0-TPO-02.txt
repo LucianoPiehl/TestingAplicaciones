@@ -1,0 +1,9 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 1.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/Logo envia a home page/
+
+.En este caso de prueba el resultado no es el esperado ya que en la home-page
+el logo sigue cumpliendo con la funcionalidad de ir a la home-page

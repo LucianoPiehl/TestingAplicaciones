@@ -1,0 +1,8 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 2.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/Logo envia a home page/
+
+.hicimos pequeños cambios para que se adapte a el sitio web y quede mas completo

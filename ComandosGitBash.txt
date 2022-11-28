@@ -1,0 +1,20 @@
+-----------------------------------------------------
+Vincular repositorio remoto a local:
+git remote add origin (link de repositorio remoto)
+-----------------------------------------------------
+Crear espacio para cambios (Solo usar con autorizacion):
+git branch -M 'Nombre  de rama de cambios'
+-----------------------------------------------------
+Añadir cambios al repositorio (Seguir el orden, preguntar antes de realizar):
+Paso 1:
+	git add . (En caso de querer añadir todos los cambios realizados al repositorio)
+	o
+	git add 'nombre de archivo' (En caso de querer añadir un archivo especifico al repositorio)
+Paso 2:
+ 	git commit -m 'Descripcion sobre lo que se va a actualizar y nombre de quien hizo la actualización'
+Paso 3: 
+	git push -u origin main
+	(Lo de main puede cambiar, pero para este proyecto solo usamos main)
+-----------------------------------------------------
+Añadir los cambios del repositorio en la carpeta local (Hacer siempre antes de trabajar)
+git pull origin main

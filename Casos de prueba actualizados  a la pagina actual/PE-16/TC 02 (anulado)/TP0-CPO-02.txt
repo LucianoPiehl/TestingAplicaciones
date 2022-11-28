@@ -1,0 +1,8 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 2.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/Fecha de nacimiento invalida/
+
+-Este caso de uso queda invalidado porque el requisito 'Date of birth' no existe en la pagina

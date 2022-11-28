@@ -1,0 +1,39 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 2.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/Nombre,Apellido,Codigo postal,contraseña y pais invalidos/
+	
+.Agregamos pasos que especificaban mejor como llegar a la seccion de registrarse
+	-'Clickear en "sign in" '
+	-'Clickear en "register here"'
+
+.Organizamos el orden de llenado de los requisitos del formulario de registro como aparece en la pagina:
+	-email
+	-password
+	-confirm password
+	-fist name
+	-last name
+	-address line 1
+	-address line 2
+	-zipcode
+	-city
+	-state
+	-country
+	-phone
+
+.Excluimos los pasos inexistentes en la pagina a la hora del registro
+	-date of birth
+	-your adress
+	-additional information
+	-company
+
+.Cambios en los requisitos para que lograran ser invalidos y cumpla con el caso de prueba:
+	-first name
+	-last name
+	-country
+	-zip code
+.Eliminamos datos de prueba innecesarios:
+	-date of birth
+	-Your address

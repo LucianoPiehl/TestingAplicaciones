@@ -1,0 +1,11 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 2.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/Modificar datos de usuario/
+
+.Sacamos un paso que realmente se puede modificar en el sitio web y en la historia era requerido:
+	-Nombre de usuario
+
+.Sacamos un paso que era 'modificar dni' ya que el sitio web no cuenta con esta casilla 

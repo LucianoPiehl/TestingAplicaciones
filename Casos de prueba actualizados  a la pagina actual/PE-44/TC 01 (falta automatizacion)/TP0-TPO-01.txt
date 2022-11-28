@@ -1,0 +1,12 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 2.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/Añadir producto a carrito/
+
+.Cambiamos pequeños detalles para que los pasos y los resultados sean especificos en el sitio web
+	-'ir al home'
+	-'clickear "producto"'
+
+.Eliminamos pasos que no eran validos en el sitio web como opciones especificas o mensajes esperados

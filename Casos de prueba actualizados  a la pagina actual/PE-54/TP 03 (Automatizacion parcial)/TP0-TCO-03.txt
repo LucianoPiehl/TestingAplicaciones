@@ -1,0 +1,11 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 2.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/User Login test/
+
+.La pagina no cumple con los requisitos de la historia
+	-Esta no se bloquea al logearte erroneamente 	multiples veces
+
+El caso de prueba automatizado no contempla la parte despues de que aparece el botón de usuario blockeado

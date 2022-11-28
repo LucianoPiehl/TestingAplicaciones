@@ -1,0 +1,10 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 2.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/Modificar datos de usuario/
+
+.En este caso de prueba con los criterios de aceptacion validos y aceptados dentro del sitio web
+
+.logrando el resultado esperado

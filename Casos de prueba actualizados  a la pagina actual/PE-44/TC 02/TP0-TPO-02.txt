@@ -1,0 +1,12 @@
+|--------------------------------------------------------|
+|Cambios y actualizacion del caso de prueba: Version 1.0 |
+|--------------------------------------------------------|
+
+Titulo de la historia:
+	/Añadir producto a carrito y cancelar compra/
+
+.El sitio web no cumple con los requisitos para la realizacion de 'Cancelar compra'
+
+.Modificamos pasos y resultados esperados para que sean mas llegados al sitio web
+	-Proceed to checkout
+
