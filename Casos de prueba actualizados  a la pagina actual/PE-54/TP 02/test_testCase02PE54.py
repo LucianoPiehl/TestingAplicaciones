@@ -14,17 +14,29 @@ class TestTestCase02PE54():
   def setup_method(self, method):
     self.driver = webdriver.Chrome()
     self.vars = {}
-  
+
   def teardown_method(self, method):
     self.driver.quit()
-  
+
   def test_testCase02PE54(self):
     self.driver.get("http://127.0.0.1:5000/")
     self.driver.set_window_size(968, 1038)
     self.driver.find_element(By.LINK_TEXT, "Sign In").click()
+    assert (self.driver.current_url == "http://127.0.0.1:5000/loginForm")
     self.driver.find_element(By.NAME, "email").click()
-    self.driver.find_element(By.NAME, "email").send_keys("asdf@gmail.com")
+    self.driver.find_element(By.NAME, "email").send_keys("TESTuser123")
+    content = self.driver.find_element(By.NAME, "email").get_attribute("value")
+    assert(content == "TESTuser123")
     self.driver.find_element(By.NAME, "password").click()
     self.driver.find_element(By.NAME, "password").send_keys("C4SE.NUMBER1")
+    content = self.driver.find_element(By.NAME, "password").get_attribute("value")
+    assert (content == "C4SE.NUMBER1")
+    time.sleep(2)
     self.driver.find_element(By.CSS_SELECTOR, "p:nth-child(3) > input").click()
-  
+    time.sleep(2)
+    login_form = self.driver.find_element(By.TAG_NAME, 'p').text
+    assert(login_form == "Invalid UserId / Password")
+
+
+
+
