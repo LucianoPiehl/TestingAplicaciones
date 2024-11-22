@@ -1,18 +1,11 @@
-Testing de Aplicaciones: Trabajo Practico Obligatorio
+Testing de Aplicaciones
 <br><br>
-<ul>
-<li>'Chimichanga'</li>
-</ul>
+
 <br><br>
-Integrantes:
-<br><br>
-<ul>
-    <li>Luciano Piehl</li><br>
-    <li>Ciro Bernal</li><br>
-    <li>Lucas Romano</li><br>
-    <li>Ivo llevilao</li><br>
-    <li>Jorge Quenta</li><br>
-</ul>
+<h1>Luciano Piehl</h1>
+<br>
+Practicas de testing universitarias. Fueron otorgados requerimientos y luego una pagina web.
+Y se solicitaron los casos de prueba.
 <br><br>
 Dentro de este repositorio hay 2 carpetas.<br>
 En "Casos de prueba no actualizados a la pagina" podemos encontrar los casos de prueba creados en base a los requerimientos.
